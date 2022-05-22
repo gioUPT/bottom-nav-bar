@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/notificacion"
+        android:title="Notificación"
+        android:icon="@drawable/ic_baseline_notification_important_24"/>
+
+    <item android:id="@+id/buscar"
+        android:title="Buscar"
+        android:icon="@drawable/ic_baseline_search_24" />
+
+    <item android:id="@+id/configuracion"
+        android:title="Configuración"
+        android:icon="@drawable/ic_baseline_build_24" />
+
+    <item android:id="@+id/tendencia"
+        android:title="Tendencias"
+        android:icon="@drawable/ic_baseline_whatshot_24" />
+
+</menu>
